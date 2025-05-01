@@ -22,7 +22,7 @@ Issues when using Linked Roles:
 * [Users are not being given the Linked Role](#role-not-given).
 * ["Invalid OAuth2 redirect_url" when claiming Linked Roles](#oauth2-redirect-url).
 * ["No roles were assigned to you" when claiming Linked Roles](#roles-missing).
-* ["Seems like the configuration by the server owner is wrong." when claiming Linked Roles](#generic-api-error).
+* ["Seems like the configuration by the server owner is wrong" when claiming Linked Roles](#generic-api-error).
 * ["The SCNX-Plan of this server expired" when claiming Linked Roles](#plan-expired).
 * ["This feature requires Early Access, which this server does not have anymore" when claiming Linked Roles](#early-access-required).
 
